@@ -6,5 +6,4 @@
 
 
 ### References :   
-> * Expressive Text-to-Image Generation with Rich Text  
-> [[Code]]([https://github.com/songweige/rich-text-to-image](https://github.com/songweige/rich-text-to-image))
+> * Expressive Text-to-Image Generation with Rich Text [[Code]]((https://github.com/songweige/rich-text-to-image))
